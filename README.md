@@ -19,8 +19,8 @@ Currently I'm a student at UAX. I love coding and new technologies.
 
 ## 🛠️ Work on Progress
 
-- Languages: [Java, C, Python]
-- Tools: [GitHub, IntelliJ]
+- Languages: [Java, C, Python, HTML]
+- Tools: [GitHub, IntelliJ, WordPress]
 
 ## 📚 Projects
 
