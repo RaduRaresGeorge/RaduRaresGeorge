@@ -22,11 +22,6 @@ Currently I'm a student at UAX. I love coding and new technologies.
 - Languages: [Java, C, Python, HTML, CSS, JavaScript]
 - Tools: [GitHub, IntelliJ, WordPress]
 
-## 📚 Projects
-
-For now, all my projects are private. Waiting for more relevant programs.
-<!-- - [Project Name](Project Link): Brief description of the project.-->
-
 ## 📫 You can reach to me at rradu@myuax.com.
 
 
