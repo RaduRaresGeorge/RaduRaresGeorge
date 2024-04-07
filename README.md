@@ -24,5 +24,3 @@ Currently I'm a student at UAX. I love coding and new technologies.
 
 ## 📫 You can reach to me at rradu@myuax.com.
 
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RaduRaresGeorge)
